@@ -1,0 +1,63 @@
+{
+    "main": {
+        "name": "Aleksei Plotnikov",
+        "description": "I'm a software engineer and for this page I've used react",
+        "image": "profilepic.jpg",
+        "bio": "I love CS, math and dogs",
+        "contactmessage": "I am usally reading my email",
+        "email": "anreall2000@gmail.com",
+        "phone": "963-***-**-07",
+        "github": "https://github.com/Anreall2000",
+        "project": "https://github.com/Anreall2000",
+        "address": {
+            "city": "Moscow",
+            "state": "Russia"
+        },
+        "website": "https://mightmakeonesoon.com/",
+        "resumedownload": "https://mightmakeonesoon.com/",
+        "social": [
+            {
+                "name": "github",
+                "url": "https://github.com/Anreall2000",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "There are not everything by now",
+        "education": [
+            {
+                "school": "Moscow Aviation Institute",
+                "degree": "Bachelor",
+                "graduated": "April 20**",
+                "description": "Studied Software Engineering"
+            }
+        ],
+        "work": [
+            {
+                "company": "MTS",
+                "title": "Telecom",
+                "years": "August 2019 - Present",
+                "description": "Work with mulitple task including ml pipelines, go and js microservises and java programming inside monolith"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "80%"
+            },
+            {
+                "name": "ReactJs",
+                "level": "30%"
+            },
+            {
+                "name": "JAVA",
+                "level": "70%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+        ]
+    }
+}
